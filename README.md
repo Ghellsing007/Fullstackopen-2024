@@ -1,7 +1,7 @@
 # Fullstackopen-2024
-Repository for assignments in the Helsinki University Full Stack Open 2024 course (https://fullstackopen.com/es/)
+Repository for assignments in the Helsinki University Full Stack Open 2024 course https://fullstackopen.com/es/
 
-Este repositorio contiene mis envíos de tareas para Helsinki University Full Stack Open 2024 ( https://fullstackopen.com/es/ ).
+Este repositorio contiene mis envíos de tareas para Helsinki University Full Stack Open 2024 https://fullstackopen.com/es/.
 
 El curso trata sobre desarrollo web moderno basado en JavaScript. El objetivo principal es crear aplicaciones de una sola página con ReactJS que utilicen API REST creadas con Node.js.
 
