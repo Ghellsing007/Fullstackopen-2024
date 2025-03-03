@@ -1,11 +1,12 @@
+# React + Vite
 
-Repository for assignments in the Helsinki University Full Stack Open 2024 course (https://fullstackopen.com/es/)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Este repositorio contiene mis envíos de tareas para Helsinki University Full Stack Open 2024 ( https://fullstackopen.com/es/ ).
+Currently, two official plugins are available:
 
-El curso trata sobre desarrollo web moderno basado en JavaScript. El objetivo principal es crear aplicaciones de una sola página con ReactJS que utilicen API REST creadas con Node.js.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-El curso también contiene secciones adicionales para lo siguiente:
+## Expanding the ESLint configuration
 
-GraphQL, una alternativa moderna a las API REST. TypeScript, un superconjunto de JavaScript tipado de código abierto que se compila en JavaScript simple. React Native, un marco de software de interfaz de usuario de código abierto para crear aplicaciones móviles nativas utilizando JavaScript. CI/CD, integración continua (CI) y entrega continua (CD) Docker Containers, una plataforma abierta para desarrollar, enviar y ejecutar aplicaciones mediante la virtualización del sistema operativo de la computadora en la que está instalada y se ejecuta.
-
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
